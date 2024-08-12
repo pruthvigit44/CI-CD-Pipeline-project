@@ -11,6 +11,5 @@ Creating CI/CD pipeline for java based application.
 •Docker
 •Kubernetes
 
-
 --Demo of this project is given in the video--
 file location : pruthvigit44/CI/CD pipeline/content-file
